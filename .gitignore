@@ -1,0 +1,7 @@
+bot_data.db
+restore_tmp.db
+backup_*.db
+backup_channels.json
+__pycache__/
+*.pyc
+.env
